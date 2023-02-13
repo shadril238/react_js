@@ -1,2 +1,9 @@
-1. What is React component? <br>
-=> A function that returns React elements. <br>
+1. A function that returns React elements is React component. <br>
+2. React start command- <br>
+   ```
+   npx create-react-app my-app
+   cd my-app
+   npm start
+   ```
+
+
